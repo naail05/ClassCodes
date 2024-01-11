@@ -1,0 +1,6 @@
+Hello Cydeo
+how are you today
+now will change the data to see if this can be read
+this is for test purpose
+how is the learning curve
+this file is just for scanner use
