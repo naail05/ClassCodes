@@ -1,4 +1,4 @@
-package day37_execeptions;
+package day37_exceptions;
 
 import day35_polymorphism_intro.transportation.Car;
 

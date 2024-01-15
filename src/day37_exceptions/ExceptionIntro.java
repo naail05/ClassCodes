@@ -1,6 +1,4 @@
-package day37_execeptions;
-
-import java.io.FileInputStream;
+package day37_exceptions;
 
 public class ExceptionIntro {
 

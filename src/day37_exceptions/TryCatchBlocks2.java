@@ -1,4 +1,4 @@
-package day37_execeptions;
+package day37_exceptions;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

@@ -1,6 +1,4 @@
-package day37_execeptions;
-
-import java.util.ArrayList;
+package day37_exceptions;
 
 public class ErrorExample {
 
